@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Hugar
 - 👀 I’m interested in Python. Frontend
 - 🌱 I’m currently learning HTML, Css, Python
-- 😄 Pronouns: He'him
+
+## My socials:
+....
 
 <!---
 HugarF/HugarF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
