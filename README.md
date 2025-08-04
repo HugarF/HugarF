@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning HTML, Css, Python
 
 ## My socials:
-....
-
+[Telegram](https://t.me/AENSLQWOME)
+[Twitter](https://x.com/_Hugarr)
 <!---
-HugarF/HugarF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HugarF/HugarF is a ✨ special ✨ repository because its `READM
+E.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
