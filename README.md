@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, Css, Python
 
 ## My socials:
-[Telegram](https://t.me/AENSLQWOME)
+[:telegram: Telegram](https://t.me/AENSLQWOME)  
 [Twitter](https://x.com/_Hugarr)
 <!---
 HugarF/HugarF is a ✨ special ✨ repository because its `READM
