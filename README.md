@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Hugar
-- 👀 I’m interested in Backend, Python, Frontend 
-- 🌱 I’m currently learning Python
+Hello!
 
 # My socials:
 
