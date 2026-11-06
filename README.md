@@ -1,4 +1,6 @@
-Hello!
+Hello! I use Arch by the way.
+
+"Fall seven times, stand up eight"
 
 # My socials:
 <a href="https://t.me/HugarDev"> Telegram </a>
